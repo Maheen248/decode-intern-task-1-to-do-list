@@ -1,4 +1,4 @@
-# 📝 To-Do List App (Task 2 - DecodeLabs Internship)
+# 📝 To-Do List App (Task 1 - DecodeLabs Internship)
 
 A simple Python-based To-Do List CLI application built as part of the DecodeLabs Internship Task 2.  
 This project helps users manage their daily tasks efficiently using a command-line interface.
